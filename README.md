@@ -1,4 +1,4 @@
-I have developed a code to facilitate retrofit decision-making for handling large data. This API allows for the analysis of various building types,
+I have developed a code to facilitate retrofit decision-making for handling large data. This code allows for the analysis of various building types,
 including commercial and residential properties, to establish a robust decision-making process for companies and municipalities seeking 
 to retrofit a district with minimal emissions.
 
