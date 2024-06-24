@@ -25,4 +25,4 @@ ISSN 0306-2619.
 
 Jayathissa, P., Luzzatto, M., Schmidli, J., Hofer, J., Nagy, Z., Schlueter, A. (2017). Optimising
 building net energy demand with dynamic BIPV shading. Applied Energy, 202,
-726–735. https://doi.org/10.1016/j.apenergy.2017.05.083.
+726–735.
