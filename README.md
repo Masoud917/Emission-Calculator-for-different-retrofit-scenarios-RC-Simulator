@@ -16,7 +16,9 @@ Results:
 The results file includes several folders containing heat map graphs and data for all possible scenarios for 
 retrofitting of the buildings in the district, as well as the total emissions for the district.
 
-References:
+**References:**
+This code builds on the previous work of the references below:
+
 Linus Walker, Illias Hischier, Arno Schlueter, Scenario-based robustness assessment of
 building system life cycle performance, Applied Energy, Volume 311, 2022, 118606,
 ISSN 0306-2619.
